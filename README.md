@@ -1,6 +1,6 @@
 # Bixploit
 
-A friend of mine [@Biboon](https://www.github.com/biboon) @bibbon always had the bad idea to leave his computer unlocked.
+A friend of mine [@Biboon](https://www.github.com/biboon) always had the bad idea to leave his computer unlocked.
 I told him to lock it, as it might be really unsecure.
 I did not.
 I changed his homepage to a really "nice" site.
